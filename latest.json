@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.1",
-  "build": 10001,
-  "apk_url": "https://github.com/rksolutionsoffical/smartblock-site/releases/download/v1.0.1/SmartAdBlocker-v1.0.1.apk",
+  "latest_version": "1.0.2",
+  "build": 10002,
+  "apk_url": "https://github.com/rksolutionsoffical/smartblock-site/releases/download/v1.0.2/SmartAdBlocker-v1.0.2.apk",
   "notes": "Improvements and fixes."
 }
