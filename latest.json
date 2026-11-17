@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.0",
-  "build": 10000,
-  "apk_url": "https://github.com/rksolutionsoffical/smartblock-site/releases/download/v1.0.0/SmartAdBlocker-v1.0.0.apk",
-  "notes": "First release of Smart Ad Blocker: blocks ads and trackers in every app and browser, per-app control, allowed sites, activity log and blocklists."
+  "latest_version": "1.0.1",
+  "build": 10001,
+  "apk_url": "https://github.com/rksolutionsoffical/smartblock-site/releases/download/v1.0.1/SmartAdBlocker-v1.0.1.apk",
+  "notes": "Improvements and fixes."
 }
